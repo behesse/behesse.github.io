@@ -23,22 +23,22 @@ search:
   no_results: Nichts gefunden.
 
 panel:
-  lastmod: Recently Updated
+  lastmod: Neuste Beiträge
   trending_tags: Trending Tags
   toc: Kapitel
 
 copyright:
   # Shown at the bottom of the post
   license:
-    template: This post is licensed under :LICENSE_NAME by the author.
-    name: CC BY 4.0
-    link: https://creativecommons.org/licenses/by/4.0/
+    template: Dieser Beitrag ist durch den Autor lizensiert unter :LICENSE_NAME.
+    name: CC BY-SA 4.0
+    link: https://creativecommons.org/licenses/by-sa/4.0/
 
   # Displayed in the footer
   brief: Some rights reserved.
   verbose: >-
-    Except where otherwise noted, the blog posts on this site are licensed
-    under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
+    Wenn nicht anders angegeben, sind die Inhalte dieser Seite
+    unter der Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) vom Autor lizensiert.
 
 meta: Powered by :PLATFORM with :THEME theme.
 
@@ -54,13 +54,13 @@ post:
   written_by: Von
   posted: Erstellt
   updated: Aktualisiert
-  words: words
-  pageview_measure: views
+  words: Wörter
+  pageview_measure: Views
   read_time:
     unit: Minuten
-    prompt: 
-  relate_posts: Further Reading
-  share: Share
+    prompt: Lesezeit
+  relate_posts: Weiter lesen
+  share: Teilen
   button:
     next: Nächster
     previous: Letzter
