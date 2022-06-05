@@ -35,7 +35,7 @@ copyright:
     link: https://creativecommons.org/licenses/by-sa/4.0/
 
   # Displayed in the footer
-  brief: Some rights reserved.
+  brief:
   verbose: >-
     Wenn nicht anders angegeben, sind die Inhalte dieser Seite
     unter der Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) vom Autor lizensiert.
