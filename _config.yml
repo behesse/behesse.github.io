@@ -97,7 +97,7 @@ comments:
     issue_term:   # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: behesse/behesse.github.io            # <gh-username>/<repo>
+    repo: behesse/blog            # <gh-username>/<repo>
     repo_id: R_kgDOHcafcw
     category: Kommentare
     category_id: DIC_kwDOHcafc84CPdHH
